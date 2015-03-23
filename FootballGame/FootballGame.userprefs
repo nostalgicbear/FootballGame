@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\UnityProjects\LostCauseMarch\Assets\zombieAnimationTest.cs">
+    <Files>
+      <File FileName="..\..\UnityProjects\LostCauseMarch\Assets\Scripts\Networking_Scripts\NetworkCharacter.cs" Line="16" Column="36" />
+      <File FileName="..\..\UnityProjects\LostCauseMarch\Assets\Scripts\Networking_Scripts\MatchMaker.cs" Line="52" Column="35" />
+      <File FileName="..\..\UnityProjects\LostCauseMarch\Assets\Scripts\PlayerScripts\PlayerActions.cs" Line="86" Column="1" />
+      <File FileName="..\..\UnityProjects\LostCauseMarch\Assets\zombieAnimationTest.cs" Line="55" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
